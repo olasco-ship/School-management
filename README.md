@@ -1,2 +1,12 @@
 # School management
- School management web app
+ >> LOGIN DETAILS <<
+
+Username: admin
+Password: 33742527
+
+
+DON'T FORGET TO CREATE A DATABASE NAMING "fantastic_school_admin_db" AND IMPORT THE SQL FILE TO RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+DATABASE FILE IS INSIDE "database" FOLDER
+
